@@ -1,0 +1,43 @@
+{
+  "title": "WeatherGeh",
+  "weather": {
+    "current": "Current Weather",
+    "forecast": "5-Day Forecast",
+    "hourly": "Hourly",
+    "feels_like": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "pressure": "Pressure",
+    "visibility": "Visibility",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "clouds": "Cloudiness",
+    "rain_chance": "Rain Chance"
+  },
+  "search": {
+    "hint": "Search city...",
+    "no_results": "No cities found",
+    "recent": "Recent Searches"
+  },
+  "settings": {
+    "title": "Settings",
+    "units": "Units",
+    "metric": "Metric (°C)",
+    "imperial": "Imperial (°F)",
+    "theme": "Theme",
+    "language": "Language"
+  },
+  "days": {
+    "monday": "Mon",
+    "tuesday": "Tue",
+    "wednesday": "Wed",
+    "thursday": "Thu",
+    "friday": "Fri",
+    "saturday": "Sat",
+    "sunday": "Sun",
+    "today": "Today"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}

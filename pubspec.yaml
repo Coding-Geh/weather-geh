@@ -1,0 +1,44 @@
+name: weathergeh_app
+description: WeatherGeh - Beautiful Weather Forecast App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.4.9
+  hooks_riverpod: ^2.4.9
+  flutter_hooks: ^0.20.3
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+  dio: ^5.4.0
+  cached_network_image: ^3.3.0
+  shimmer: ^3.0.0
+  intl: ^0.20.2
+  google_fonts: ^6.1.0
+  flutter_animate: ^4.5.2
+  easy_localization: ^3.0.3
+  shared_preferences: ^2.2.2
+  geolocator: ^13.0.2
+  geocoding: ^3.0.0
+  fl_chart: ^0.69.2
+  lottie: ^3.3.1
+  envied: ^0.5.4+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.8
+  freezed: ^2.4.6
+  json_serializable: ^6.7.1
+  envied_generator: ^0.5.4+1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/translations/
+    - assets/animations/

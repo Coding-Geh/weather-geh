@@ -1,0 +1,43 @@
+{
+    "title": "WeatherGeh",
+    "weather": {
+        "current": "Cuaca Saat Ini",
+        "forecast": "Prakiraan 5 Hari",
+        "hourly": "Per Jam",
+        "feels_like": "Terasa seperti",
+        "humidity": "Kelembaban",
+        "wind": "Angin",
+        "pressure": "Tekanan",
+        "visibility": "Jarak Pandang",
+        "sunrise": "Matahari Terbit",
+        "sunset": "Matahari Terbenam",
+        "clouds": "Awan",
+        "rain_chance": "Peluang Hujan"
+    },
+    "search": {
+        "hint": "Cari kota...",
+        "no_results": "Kota tidak ditemukan",
+        "recent": "Pencarian Terakhir"
+    },
+    "settings": {
+        "title": "Pengaturan",
+        "units": "Satuan",
+        "metric": "Metrik (°C)",
+        "imperial": "Imperial (°F)",
+        "theme": "Tema",
+        "language": "Bahasa"
+    },
+    "days": {
+        "monday": "Sen",
+        "tuesday": "Sel",
+        "wednesday": "Rab",
+        "thursday": "Kam",
+        "friday": "Jum",
+        "saturday": "Sab",
+        "sunday": "Min",
+        "today": "Hari Ini"
+    },
+    "footer": {
+        "rights": "Hak cipta dilindungi"
+    }
+}
